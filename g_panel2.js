@@ -1,6 +1,6 @@
 // @ts-nocheck
 // Overclocked-Boost Core by U3jit - Project By Claxpoint
-// SampleSource and idea for BPB // پنل گل افزانی 🇮🇷 
+// SampleSource and idea for BPB // پنل آزادنت 🇮🇷 
 // U3jit - High.Multi.Protocol 
 //Also thanks to bia-pain-bache
 //Frist BPB Persian panel! - UltraOverclocked-and-Boosted! - with many options!
